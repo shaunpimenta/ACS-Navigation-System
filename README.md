@@ -4,8 +4,8 @@
 ## Making the Navigation System
 ![PXL_20220125_095421048](https://github.com/user-attachments/assets/8c4d5e20-585f-4299-aa00-167d13163e67)
 ## Color Detection and Navigation
-<img width="1280" height="719" alt="image" src="https://github.com/user-attachments/assets/4e3ab611-180d-4ba0-b50e-eefdbbfee64c" />
-<img width="1280" height="719" alt="image" src="https://github.com/user-attachments/assets/cc36ca2b-d7d0-4fa4-98f6-b87246e42224" />
+![WhatsApp Image 2026-01-15 at 00 19 22 (1)](https://github.com/user-attachments/assets/aacaaeb5-a89f-4c2b-80ac-2b0b47280d0b)
+![WhatsApp Image 2026-01-15 at 00 19 22](https://github.com/user-attachments/assets/8025af07-3ceb-4611-b2f6-36f34f5627d9)
 First Image is the landing zone with color as yellow and second image is the successful detection of the landing zone from over 200ft !!
 ## Its all comming together
 ![IMG-20220201-WA0006](https://github.com/user-attachments/assets/195a657f-a5f4-49d1-9092-89ad96af81ca)
