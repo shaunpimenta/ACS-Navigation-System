@@ -140,19 +140,19 @@ The final system combined:
 
 # 🧩 System Architecture Overview
 
-Camera Input
-↓
-Image Preprocessing (OpenCV)
-↓
-Color Detection (HSV Filtering)
-↓
-Contour & Centroid Computation
-↓
-Heading / Direction Calculation
-↓
-Flight Control Output
-↓
-GUI Monitoring & Debug Interface
+Camera Input<br>
+↓<br>
+Image Preprocessing (OpenCV)<br>
+↓<br>
+Color Detection (HSV Filtering)<br>
+↓<br>
+Contour & Centroid Computation<br>
+↓<br>
+Heading / Direction Calculation<br>
+↓<br>
+Flight Control Output<br>
+↓<br>
+GUI Monitoring & Debug Interface<br>
 
 ---
 
@@ -188,81 +188,3 @@ GUI Monitoring & Debug Interface
 
 ---
 
-# 📁 Repository Purpose
-
-This repository is shared as a **technical portfolio project** documenting real-world aerospace autonomy work.
-
-It demonstrates:
-
-- Systems engineering  
-- Computer vision in outdoor environments  
-- UAV autonomy integration  
-- Competition-driven engineering development  
-- End-to-end hardware/software integration  
-
----
-
-# 📜 License
-
-Shared for portfolio and educational purposes.
-
-If you’d like, I can now:
-
-Make it slightly shorter (some recruiters prefer tighter READMEs)
-
-Or make it more SWE-focused vs aerospace-focused
-
-Or optimize the top section to hook recruiters in the first 5 seconds
-
-Since you’re using this for internships, the first 10 lines matter a lot.
----
-
-# 🛠 Technical Stack
-
-- Python  
-- OpenCV  
-- NumPy  
-- GUI Framework (Tkinter / PyQt)  
-- Real-time image processing  
-- UAV integration & flight testing  
-
----
-
-# 🚀 Key Engineering Challenges
-
-- Reliable color detection under varying outdoor lighting  
-- Real-time processing with hardware constraints  
-- Noise filtering and motion stability  
-- Integration with flight control systems  
-- Ensuring robustness for live competition conditions  
-
----
-
-# 📌 My Contributions
-
-- Designed perception pipeline  
-- Implemented navigation logic  
-- Developed GUI monitoring interface  
-- Integrated system with aircraft platform  
-- Conducted flight testing and calibration  
-- Optimized detection accuracy for high-altitude operation  
-
----
-
-# 📁 Repository Purpose
-
-This repository is shared as a **technical portfolio project** documenting real-world aerospace autonomy work.
-
-It demonstrates:
-
-- Systems engineering  
-- Computer vision in outdoor environments  
-- UAV autonomy integration  
-- Competition-driven engineering development  
-- End-to-end hardware/software integration  
-
----
-
-# 📜 License
-
-Shared for portfolio and educational purposes.
